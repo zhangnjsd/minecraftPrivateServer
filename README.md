@@ -1,0 +1,2 @@
+# minecraftPrivateServer
+forPrivateUse
